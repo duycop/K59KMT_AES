@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace libAES
 {
-    //ok con dê
+    //ok con dê, con tê tê
     public class MyAES
     {
         // AES Key & IV
