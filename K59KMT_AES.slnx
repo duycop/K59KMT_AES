@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="K59KMT_AES/K59KMT_AES.csproj" Id="f2375485-6834-45bd-8fe2-077035d21702" />
+  <Project Path="libAES/libAES.csproj" Id="4c67f327-47d8-4a49-89be-e6b73e927a92" />
+</Solution>
