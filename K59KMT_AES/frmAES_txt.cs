@@ -30,6 +30,9 @@ namespace K59KMT_AES
         private void btnGenerateKey_Click(object sender, EventArgs e)
         {
             txtKey.Text = aes.genKey();
+
+            byte[] key = Convert.FromBase64String(txtKey.Text);
+            label4.Text = $"Key length: {key.Length} bytes";
         }
 
         private void btnEncrypt_Click(object sender, EventArgs e)

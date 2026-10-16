@@ -67,6 +67,12 @@
     <Compile Include="frmChoice.Designer.cs">
       <DependentUpon>frmChoice.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmRSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRSA.Designer.cs">
+      <DependentUpon>frmRSA.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmAES_Files.resx">
@@ -77,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmChoice.resx">
       <DependentUpon>frmChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRSA.resx">
+      <DependentUpon>frmRSA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
