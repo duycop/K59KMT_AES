@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Downloads/AES_RSA_BAITAP.txt" />
+  </Folder>
   <Project Path="ConsoleRSA/ConsoleRSA.csproj" Id="be207a63-4b2b-42ea-a4d4-79f77d59c002" />
   <Project Path="demoRSA/demoRSA.csproj" Id="effd1504-ec92-4ec8-98e6-772b571564ff" />
   <Project Path="K59KMT_AES/K59KMT_AES.csproj" Id="f2375485-6834-45bd-8fe2-077035d21702" />
